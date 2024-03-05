@@ -1,0 +1,13 @@
+{
+  "name": "aave-rf-updates-generator",
+  "version": "1.0.0",
+  "description": "Generate Solidity code for Aave Reserve Factor Updates",
+  "main": "index.js",
+  "repository": "https://github.com/defijesus/aave-rf-updates-generator",
+  "author": "defijesus.eth <defijesus@duck.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js tests",
+    "payload": "node index.js payload"
+  }
+}
